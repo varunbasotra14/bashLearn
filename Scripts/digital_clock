@@ -1,0 +1,10 @@
+#!/bin/bash
+#Author ; Varun Sharma
+#Date : 24-Jan-2023
+#Description : This script is to create digital clock
+while  [ 1 ]
+do
+	clear
+	echo $(date +%T)
+	sleep 1s
+done

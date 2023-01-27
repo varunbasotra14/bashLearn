@@ -1,0 +1,12 @@
+#!/bin/bash
+#Author : Varun Sharma
+#Date : 20-Jan-2023
+#Description : This is Script is test 'read' command
+a=`hostname`
+echo Hello you are logged in the to $a
+echo What is your name :
+read b
+echo 
+
+echo Welcome $b
+

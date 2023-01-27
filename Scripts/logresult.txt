@@ -1,0 +1,9 @@
+/var/log/fsck_apfs_error.log
+/var/log/fsck_hfs.log
+/var/log/com.apple.xpc.launchd/launchd.log
+/var/log/shutdown_monitor.log
+/var/log/system.log
+/var/log/wifi.log
+/var/log/acroUpdaterTools.log
+/var/log/install.log
+/var/log/fsck_apfs.log
