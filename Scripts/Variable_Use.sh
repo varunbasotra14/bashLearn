@@ -1,6 +1,6 @@
 #Author : Varun Sharma
 #Date : 28-Jan-2023
-#Description : Use of If Command
+#Description : Use of Variables
 #!/bin/bash
 #Decalring Variable
 WORD="Hello"
